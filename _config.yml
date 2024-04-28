@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: The important thing is never to stop questioning.
+title: 중요한 건 꺾이지 않는 호기심
 email: sjylucia2002@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  중요한 건 꺾이지 않는 호기심...
+  The important thing is never to stop questioning.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: secret
