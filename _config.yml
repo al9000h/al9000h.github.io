@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: 중꺾마 중꺽호
+title: 중꺾마 중꺾호
 
 # Your name to show in the footer
 author: al9000h
@@ -18,13 +18,14 @@ author: al9000h
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
+category_list: [ai, web, cs, ps]
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  AI: "./categories/ai"
+  WEB: "./categories/web"
+  CS: "./categories/cs"
+  PS: "./categories/ps"
 
 ################
 # --- Logo --- #
@@ -100,7 +101,7 @@ social-network-links:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "al9000h.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
