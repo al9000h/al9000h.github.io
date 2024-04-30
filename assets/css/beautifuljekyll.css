@@ -19,7 +19,7 @@ layout: null
   --footer-hover-col: {{ site.footer-hover-col | default: "#0085A1" }};
 
   /* common CSS variables */
-  /* --body-font: 'Lora', 'Times New Roman', serif; */
+  --body-font: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   --header-font: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   --mid-col: #808080;
 }
@@ -31,8 +31,7 @@ html {
 }
 
 body {
-  /* font-family: var(--body-font); */
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: var(--body-font);
   font-size: 1.125rem;
   color: var(--text-col);
   position: relative;
@@ -523,8 +522,7 @@ footer .footer-custom-content {
   font-size: 1.125rem;
   font-style: italic;
   margin: 0 0 0.625rem;
-  /* font-family: var(--body-font); */
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: var(--body-font);
 }
 .post-heading .post-meta {
   display: inline-block;
