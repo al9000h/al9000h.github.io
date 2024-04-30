@@ -18,7 +18,6 @@ author: al9000h
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
-category_list: [ai, web, cs, ps]
 
 navbar-links:
   About Me: "aboutme"
