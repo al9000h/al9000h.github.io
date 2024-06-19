@@ -21,10 +21,11 @@ author: al9000h
 
 navbar-links:
   About Me: "aboutme"
-  AI: "./category/ai"
-  WEB: "./category/web"
   CS: "./category/cs"
+  MATH: "./category/math"
+  ML: "./category/ml"
   PS: "./category/ps"
+  ENG: "./category/eng"
 
 ################
 # --- Logo --- #
